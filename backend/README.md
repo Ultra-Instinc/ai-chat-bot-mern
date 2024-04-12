@@ -21,6 +21,10 @@ Contributions are welcome
 <!-- .env file confing & access --> "dotenv": "^16.3.1",
 <!-- Development http server --> "express": "^4.18.2",
 <!-- Data validation checking --> "express-validator": "^7.0.1",
+<!-- Gives some extra log Data -->
+
+"morgan": "^1.10.0",
+
 <!-- JWT for auth  --> "jsonwebtoken": "^9.0.1",
 <!-- Package to work with MONOG DB --> "mongoose": "^7.4.2",
 <!-- Library to work with open AI systems --> "openai": "^3.3.0" },
