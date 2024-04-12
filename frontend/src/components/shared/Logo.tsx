@@ -11,7 +11,7 @@ const Logo = () => {
 					className=' invert'
 				/>
 			</Link>{" "}
-			<div className='text-[13px] hidden lg:inline-block leading-10 font-[800]'>
+			<div className='text-[13px] hidden md:inline-block leading-10 font-[800]'>
 				<span className='text-[18px]'>MERN</span>-GPT
 			</div>
 		</div>
